@@ -5,13 +5,14 @@ body {
   color: #333;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: #007BFF;
 }
 
 a {
   text-decoration: none;
-  color: #007BFF;
+  color: green;
   font-weight: bold;
 }
 
@@ -26,7 +27,8 @@ table {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-table th, table td {
+table th,
+table td {
   border: 1px solid #ddd;
   padding: 10px;
   text-align: left;
@@ -41,7 +43,7 @@ form {
   padding: 20px;
   max-width: 400px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 input {
