@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Ajouter un utilisateur</h1>
+    <h1>Ajouter un nouveau utilisateur</h1>
     <form method="post">
         Nom : <input name="name" required><br>
         Email : <input name="email" required><br>
